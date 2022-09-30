@@ -26,10 +26,10 @@ ListItem.appendChild(DoneBTN);
 List.appendChild(ListItem);
     ToDo.innerHTML = UserInput;
        }
-    CancelBtn.onclick = function (){
+    CancelBTN.onclick = function (){
         List.RemoveChild(ListItem);
     }
-     DoneBtn.onclick = function (){
+     DoneBTN.onclick = function (){
         List.RemoveChild(ListItem);
          alert("Congrats on completing that task");
     }
