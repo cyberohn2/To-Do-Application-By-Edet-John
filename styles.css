@@ -74,4 +74,8 @@ footer{
     align-items: center;
     margin-top: 20px;
 }
-}
+@media (max-width:500px) {
+    h1{
+        font-size:0.7em;
+        padding-left:unset;
+    }
