@@ -75,6 +75,6 @@ footer{
 }
 @media (max-width:500px) {
     h1{
-        font-size:0.7em;
+        font-size:1em;
         padding-left:unset;
     }
