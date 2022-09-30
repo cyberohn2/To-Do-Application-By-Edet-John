@@ -22,7 +22,6 @@ section{
 section:first-of-type{
     display: flex;
     align-items: center;
-    padding-left:30px ;
     padding-right: 30px;
     min-height: 80px;
 }
